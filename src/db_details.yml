@@ -1,0 +1,5 @@
+# This file contains the database url, user and password to connect to the database.
+
+dbUrl : jdbc:mysql://localhost:3306/car_review_system
+user : username
+password : username_password
